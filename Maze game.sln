@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{60506817-9D72-3D1A-9A2A-BEED1B25D595}") = "Maze game", "Assembly-CSharp-firstpass.csproj", "{4ECD3435-DBE0-4EE3-75A7-265C6F983C39}"
+EndProject
+Project("{60506817-9D72-3D1A-9A2A-BEED1B25D595}") = "Maze game", "Assembly-CSharp.csproj", "{45CDB543-BAFF-BAC6-066D-C836E27CE739}"
+EndProject
+Project("{60506817-9D72-3D1A-9A2A-BEED1B25D595}") = "Maze game", "Assembly-CSharp-Editor.csproj", "{32551A26-4F6C-F592-BB0F-0C508EAF18BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECD3435-DBE0-4EE3-75A7-265C6F983C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECD3435-DBE0-4EE3-75A7-265C6F983C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECD3435-DBE0-4EE3-75A7-265C6F983C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECD3435-DBE0-4EE3-75A7-265C6F983C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CDB543-BAFF-BAC6-066D-C836E27CE739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CDB543-BAFF-BAC6-066D-C836E27CE739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CDB543-BAFF-BAC6-066D-C836E27CE739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CDB543-BAFF-BAC6-066D-C836E27CE739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32551A26-4F6C-F592-BB0F-0C508EAF18BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32551A26-4F6C-F592-BB0F-0C508EAF18BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32551A26-4F6C-F592-BB0F-0C508EAF18BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32551A26-4F6C-F592-BB0F-0C508EAF18BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
